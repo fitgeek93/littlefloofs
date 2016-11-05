@@ -1,0 +1,16 @@
+@import "bootstrap-sprockets";
+
+
+body {
+	padding-top: 70px;
+}
+
+@import "bootstrap";
+
+.footer {
+	margin-top: 50px;
+	color: $gray;
+	a {
+		color: $gray;
+	}
+}
